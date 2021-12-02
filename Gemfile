@@ -33,4 +33,4 @@ gem 'jekyll-sitemap'
 gem 'jekyll-seo-tag'
 gem "jekyll-remote-theme"
 gem 'jekyll-paginate'
-gem "jekyll-theme-hydure"
+gem 'jekyll-gist'
